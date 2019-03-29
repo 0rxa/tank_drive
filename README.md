@@ -1,5 +1,4 @@
 # Simple tank drive arduino code.
-# The MIT Licence protects this markdown, not the arduino code, because as all great coders know, efficiency and good work is worthless compared to some cool tricks and beautiful edit. /s
 This code is made useful when uploaded to an arduino featuring
 a USB Host shield connected to a wireless Xbox controller.
 
@@ -17,8 +16,5 @@ The very same code is useful also for wired controller but you need to include t
 
 * the first pin of the first motor to the first output of the first H-Bridge
 * the second pin of the first motor to the second output of the first H-Bridge
-* the first pin of the second motor to the second output of the first H-Bridge
-* the second pin of the second motor to the first output of the first H-Bridge
-
-If this sounds complicated and you need a schematic, ~~I don't give a fuck~~ tough luck kid, learn some 
-electronics.
+* the first pin of the second motor to the second output of the second H-Bridge
+* the second pin of the second motor to the first output of the second H-Bridge
